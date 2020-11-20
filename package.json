@@ -1,0 +1,26 @@
+{
+  "name": "livetable",
+  "version": "0.0.1",
+  "description": "LiveTable",
+  "main": "index.html",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/LiveTable.git"
+  },
+  "keywords": [
+    "livetable"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/LiveTable/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/LiveTable#readme"
+}
